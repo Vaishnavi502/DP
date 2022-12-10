@@ -3,7 +3,7 @@
 #include <pthread.h>
 #include <ctype.h>
 #include <string.h>
-
+#include<stdlib.h>
 #include "monitor.h"
 
 //pthread_mutex_t lock;
