@@ -3,7 +3,7 @@
 #include <pthread.h>
 #include <ctype.h>
 #include <string.h>
-#include<stdlib.h>
+#include <stdlib.h>
 #include "monitor.h"
 
 void *philosopher(void *i)
