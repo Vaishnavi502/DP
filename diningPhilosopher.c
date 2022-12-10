@@ -6,8 +6,6 @@
 #include<stdlib.h>
 #include "monitor.h"
 
-//pthread_mutex_t lock;
-
 void *philosopher(void *i)
 {
 	while(1)
