@@ -1,4 +1,4 @@
-output := philosopher_yj
+output := dininphilo
 
 CFLAGS :=
 #CFLAGS += -DDEBUG
